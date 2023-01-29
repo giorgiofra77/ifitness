@@ -20,6 +20,7 @@
                                 <th scope="col">Cognome</th>
                                 <th scope="col">Email</th>
                                 <th scope="col">Azienda</th>
+                                <th scope="col"></th>
                             </tr>
                             </thead>
                             <tbody>
